@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mech-math/static/css/main.14424692.css",
+    "main.js": "/mech-math/static/js/main.4c8a09a1.js",
+    "static/js/787.ff264e6c.chunk.js": "/mech-math/static/js/787.ff264e6c.chunk.js",
+    "static/media/hi.jpg": "/mech-math/static/media/hi.3fe62dfe80b152c8f59b.jpg",
+    "index.html": "/mech-math/index.html",
+    "main.14424692.css.map": "/mech-math/static/css/main.14424692.css.map",
+    "main.4c8a09a1.js.map": "/mech-math/static/js/main.4c8a09a1.js.map",
+    "787.ff264e6c.chunk.js.map": "/mech-math/static/js/787.ff264e6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14424692.css",
+    "static/js/main.4c8a09a1.js"
+  ]
+}
